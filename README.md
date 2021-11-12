@@ -1,8 +1,10 @@
 ### Hi there 👋, my name is Arturs
 #### I am GitHub Readme Generator's creator
+
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I'm Hamza from Morocco, and I'm currently studying programming, here are some things I'm working on: _ Happy programming _ Creating apps.
+I love talking about creative programming, so feel free to chat with me!
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
