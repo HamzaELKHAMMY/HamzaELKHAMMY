@@ -9,3 +9,4 @@ Skills: PYTHON/ C SHARP / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HamzaELKHAMMY) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hamza-elkhammy-74428a218/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/hamza.khammy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hamza_elkhammy/)  
 
+![github-small](https://user-images.githubusercontent.com/94132737/141534094-d3acf68b-7517-4f67-901a-60fc4a24168a.png)
