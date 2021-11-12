@@ -3,7 +3,7 @@
 I'm Hamza from Morocco, and I'm currently studying programming, here are some things I'm working on: _ Happy programming _ Creating apps.
 I love talking about creative programming, so feel free to chat with me!
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: PYTHON/ C SHARP / HTML / CSS
 
 - 🌱 I’m currently learning I study in a specialized institute of applied technology 
 
