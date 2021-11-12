@@ -1,6 +1,4 @@
 ### Hi there 👋, my name is Hamza
-#### I am GitHub Readme Generator's creator
-
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm Hamza from Morocco, and I'm currently studying programming, here are some things I'm working on: _ Happy programming _ Creating apps.
