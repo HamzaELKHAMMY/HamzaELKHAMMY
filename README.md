@@ -19,7 +19,4 @@ I'm currently studying programming, and I love to talk about creative programmin
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
-  
-
-![unnamed](https://user-images.githubusercontent.com/94132737/141614888-ca8fc9e3-fe45-48fa-8830-c5d4620ab655.jpg)
 
