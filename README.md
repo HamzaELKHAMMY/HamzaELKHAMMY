@@ -6,7 +6,7 @@
 I'm currently studying programming, and I love to talk about creative programming, so feel free to chat with me!
 
 - 🌱I study in a specialized institute of applied technology 
-- 👯 I’m looking to collaborate on [I.U.D.S-TP](https://github.com/HamzaELKHAMMY/I.U.D.S-TP)
+- 👯 I’m looking to collaborate on [Quiz-App-Python](https://github.com/HamzaELKHAMMY/Quiz-App-Python)
 
 - 📫 How to reach me **hamzaelkhammy@gmail.com**
 
