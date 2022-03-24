@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Hamza ELKHAMMY</h1>
-<h3 align="center">Full stack web developer from Marroco</h3>
 
 ![1627317381496](https://user-images.githubusercontent.com/94132737/141528916-72d0746e-dac5-4fb9-84db-642bf55e6799.jpg)
-
+<h1 align="center">Hi 👋, I'm Hamza ELKHAMMY</h1>
+<h3 align="center">Full stack web developer from Marroco</h3>
 I'm currently studying programming, and I love to talk about creative programming, so feel free to chat with me!
 
 - 🌱I study in a specialized institute of applied technology 
