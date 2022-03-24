@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm Hamza ELKHAMMY</h1>
 <h3 align="center" >Full stack web developer from Marroco</h3> 
 <hr>
-<img align="right"" alt="Coding" width="300" src="https://thumbs.gfycat.com/ClassicWeepyAnemone-max-1mb.gif" >
-I'm currently studying programming, and I love to talk about creative programming, so feel free to chat with me!
+<img align="right"" alt="Coding" width="260" src="https://thumbs.gfycat.com/ClassicWeepyAnemone-max-1mb.gif" >
+<h5>I'm currently studying programming, and I love to talk about creative programming, so feel free to chat with me!</h5>
                                                                                                             
 - 🌱I study in a specialized institute of applied technology 
                                                                                                             
